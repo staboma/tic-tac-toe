@@ -14,7 +14,7 @@ Tic-Tac-Toe oyunu, klasik bir 3x3 Tic-Tac-Toe oyunudur. Bu projede HTML, CSS ve 
 
 1. Bu repoyu klonlayın veya zip dosyasını indirin.
     ```sh
-    git clone https://github.com/kullanici-adi/tic-tac-toe.git
+    git clone https://github.com/staboma/tic-tac-toe.git
     ```
 2. Proje klasörüne gidin.
     ```sh
